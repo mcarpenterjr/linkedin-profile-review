@@ -2,4 +2,4 @@
 
 PDF of my LinkedIn Profile...
 
-[Check it Out](../MNCJrLIn072715.pdff)
+[Check it Out](../linkedin-profile-review/MNCJrLIn072715.pdff)
